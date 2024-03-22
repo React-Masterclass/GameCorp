@@ -31,7 +31,7 @@ Piattaforma che mostra videogiochi, e da la possibilitá ai suoi utenti autentic
 * Home Page - Lista dei giochi disponibili e ricerca tra i giochi
 * Filter Page - Lista dei giochi secondo un filtro specifico
 * Single Game Page - Mostra dettagli sullo specifico gioco, se autenticato utente puó selezionarlo tra i preferiti e puo lasciare un commento sul gioco.
-* Login Page - Possibilitá di autenticazione ( email, OAuth ( google ) )
+* Login Page - Possibilitá di autenticazione
 * Register Page - Possibilitá di registrare Utente con Email
 * Account Page - Dettaglio profilo Utente, Mostra dati utente autenticato
 * Settings Page - Aggiornamento profilo Utente
