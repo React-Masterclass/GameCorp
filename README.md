@@ -50,5 +50,6 @@ Piattaforma che mostra videogiochi, e da la possibilitá ai suoi utenti autentic
   * Utenti loggati possono condividere dati all'interno dell'applicazione
 
 ## Deployment
- https://game-corp-b1yyle4k9-giuseppes-projects-4c950381.vercel.app/
+ 
 
+https://game-corp.vercel.app/
